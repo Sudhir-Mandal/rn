@@ -1,6 +1,0 @@
-module Pods_lmwallet {
-  umbrella header "Pods-lmwallet-umbrella.h"
-
-  export *
-  module * { export * }
-}
